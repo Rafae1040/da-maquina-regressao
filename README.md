@@ -25,6 +25,7 @@ Avaliaremos o desempenho do modelo através do cálculo do RMSE para os dados de
 Para a realização deste projeto, utilizaremos as seguintes ferramentas e bibliotecas:
 
 Linguagem de programação: Python
+
 Bibliotecas: scikit-learn, numpy, pandas, seaborn
 
 ## Conclusão:
