@@ -12,7 +12,7 @@ print(a)
 b = model.intercept_
 print(b)
 
-#Avaliação:
+# Avaliação:
 
 from sklearn.metrics import mean_squared_error
 
