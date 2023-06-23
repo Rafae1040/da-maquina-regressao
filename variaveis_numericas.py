@@ -1,3 +1,6 @@
+# Identificando as variáveis numéricas e criando uma nova coluna padronizando seus valores. 
+# A nova coluna deve ter o mesmo nome da coluna original acrescidade de "_std". 
+
 media = penguim['bill_length_mm'].mean()
 print(media)
 
