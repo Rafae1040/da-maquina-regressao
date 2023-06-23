@@ -1,3 +1,6 @@
+# Identificando as variáveis categóricas nominais e ordinais, criando uma nova coluna aplicando a técnica correta de conversão a seus valores. 
+# A nova coluna deve ter o mesmo nome da coluna original acrescidade de "_nom" ou "_ord".
+
 penguim[['species', 'island', 'sex']].head()
 
 penguim['species_Adelie_nom'] = penguim['species'].apply(lambda species: 1 if species == 'Adelie' else 0)
