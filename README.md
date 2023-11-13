@@ -11,14 +11,14 @@ O objetivo deste projeto é desenvolver um modelo de regressão linear que seja 
 
 ## Metodologia:
 
-Realizaremos uma análise exploratória dos dados, utilizando gráficos para visualizar a relação entre os atributos e a variável resposta. Faremos essa análise considerando diferentes aspectos, como sexo, espécie e ilha.
-Trataremos os valores nulos presentes na base de dados, aplicando as técnicas para lidar com esse problema.
-Identificaremos as variáveis numéricas e criaremos uma nova coluna padronizando seus valores.
-Identificaremos as variáveis categóricas nominais e ordinais, e aplicaremos a técnica correta de conversão em seus valores.
-Limparemos a base de dados, descartando as colunas originais e mantendo apenas as variáveis preditivas e a variável resposta.
-Separaremos a base de dados em conjuntos de treino e teste, utilizando uma proporção de 2/3 para treino e 1/3 para testes.
-Treinaremos um modelo de regressão linear utilizando os dados de treino.
-Avaliaremos o desempenho do modelo através do cálculo do RMSE para os dados de teste.
+Realizei uma análise exploratória dos dados, utilizando gráficos para visualizar a relação entre os atributos e a variável resposta. Faremos essa análise considerando diferentes aspectos, como sexo, espécie e ilha.
+Foi tratado os valores nulos presentes na base de dados, aplicando as técnicas para lidar com esse problema.
+Identificando as variáveis numéricas e criaremos uma nova coluna padronizando seus valores.
+Identificando as variáveis categóricas nominais e ordinais, e aplicaremos a técnica correta de conversão em seus valores.
+Limpei a base de dados, descartando as colunas originais e mantendo apenas as variáveis preditivas e a variável resposta.
+Separei a base de dados em conjuntos de treino e teste, utilizando uma proporção de 2/3 para treino e 1/3 para testes.
+Treinar um modelo de regressão linear utilizando os dados de treino.
+Foi Avaliado o desempenho do modelo através do cálculo do RMSE para os dados de teste.
 
 ## Recursos:
 
